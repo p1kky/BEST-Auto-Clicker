@@ -1,6 +1,6 @@
-# BESTAutoClicker
+# BEST Auto Clicker
 
-**BESTAutoClicker** is a versatile and powerful auto-clicker that allows you to automate mouse clicks with customizable intervals, click types, and more.
+**BEST Auto Clicker** is a versatile and powerful auto-clicker that allows you to automate mouse clicks with customizable intervals, click types, and more.
 
 ---
 
@@ -49,7 +49,7 @@
 2. **Select the click type**: Choose between single, double, or triple click.
 3. **Choose the mouse button**: Set the button for the clicks (left, right, or middle).
 4. **Configure the repetition count**: Decide whether you want a fixed number of clicks or unlimited clicks until stopped.
-5. **Set hotkeys**: Customize start and stop hotkeys for easy control.
+5. **Set hotkeys**: Customize start and stop hotkeys for easy control (default - F6 and F8).
 6. **Save your configuration**: All settings will be saved automatically, ensuring you don't have to reconfigure them every time you start the program.
 
 ---
