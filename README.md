@@ -54,6 +54,7 @@
 
 ---
 
-## 📂 License
+## 📂 License, other
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Connect with developer: @p1kky4 (DISCORD)
